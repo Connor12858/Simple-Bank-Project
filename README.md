@@ -3,7 +3,7 @@
 
 Please note this is not on any server so any data will not be stored. This was more of a 'thing' I just made out of boredom.
 
-#To download
+# To download
 Click on the green download button
 
 Click to download as .ZIP folder
@@ -16,7 +16,7 @@ Go to the windows search bar, type 'Bank'
 
 The wierd looking icon is the app
 
-#To unistall
+# To unistall
 Search in the search bar 'Control Panel'
 
 Run Control Panel
