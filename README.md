@@ -28,3 +28,6 @@ Find program called 'Bank'
 Right-click and select unistall
 
 Accept everything and it will all be deleted (Unless you kept the .ZIP folder from downloading)
+
+# THIS IS NOT AN OFFICAL APP TO ANY BANK! THIS IS ALSO NOT ANY SOFTWARE TO USE WHEN RUNNING A BANK!
+# THIS WAS MADE OUT OF PURE FUN AND NOT MEANT FOR COMMERICAL USE!!!!!!!!!!!
