@@ -16,7 +16,7 @@ Go to the windows search bar, type 'Bank'
 
 The wierd looking icon is the app
 
-# To unistall
+# To uninstall
 Search in the search bar 'Control Panel'
 
 Run Control Panel
